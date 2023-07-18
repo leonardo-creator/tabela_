@@ -1,0 +1,25 @@
+{
+    "nome": "João",
+    "idade": 30,
+    "profissao": "Engenheiro",
+    "habilidades": ["Python", "Java", "C++"],
+    "endereco": {
+        "rua": "Rua das Flores",
+        "numero": 123,
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "pais": "Brasil"
+    },
+    "projetos": [
+        {
+            "nome": "Projeto 1",
+            "descricao": "Descrição do Projeto 1",
+            "status": "Concluído"
+        },
+        {
+            "nome": "Projeto 2",
+            "descricao": "Descrição do Projeto 2",
+            "status": "Em andamento"
+        }
+    ]
+}
